@@ -9,7 +9,7 @@
 
   [![License](https://img.shields.io/badge/License-Proprietary-blue.svg)](#)
   [![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Linux%20%7C%20Android-lightgrey)](#)
-  [![Version](https://img.shields.io/badge/Latest_Release-v1.0.0-success.svg)](https://github.com/SENIN_KULLANICI_ADIN/Jilo-Player/releases)
+  [![Version](https://img.shields.io/badge/Latest_Release-v1.0.0-success.svg)](https://github.com/yetkina/Jilo-Player/releases)
 </div>
 
 <br/>
