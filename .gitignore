@@ -1,0 +1,17 @@
+# Jilo Player — public distribution repo (closed-source)
+# Ignore everything by default; only marketing / release files are tracked.
+
+/*
+
+# Git metadata & this file
+!.gitignore
+
+# Allowed distribution files
+!README.md
+!CHANGELOG.md
+!screenshots/
+!screenshots/**
+
+# OS junk inside allowed folders
+screenshots/**/.DS_Store
+screenshots/**/Thumbs.db
