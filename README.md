@@ -53,7 +53,11 @@ Biz bir veri şirketi değiliz, yazılım şirketiyiz. İzleme alışkanlıklar�
 
 ## 📥 İndirme ve Kurulum
 
-Jilo Player'ın platformunuza uygun en güncel kurulum dosyalarını (.dmg, .exe, .apk) indirmek için **[Releases (Sürümler) sekmesini](https://github.com/yetkina/Jilo-Player/releases)** ziyaret edin.
+macOS için **[Releases (Sürümler)](https://github.com/yetkina/Jilo-Player/releases)** sayfasından `JiloPlayer_macOS_*.zip` dosyasını indirin. Zip’i açın ve `Jilo Player.app` dosyasını **Applications** klasörüne sürükleyin.
+
+> **Önemli:** Uygulamayı repodaki dosya ağacından (`tree/main`) indirmeyin — yalnızca Releases’taki zip dosyasını kullanın. Aksi halde macOS «uygulama hasarlı» uyarısı verebilir.
+
+Diğer platformlar (.exe, .apk vb.) eklendiğinde aynı Releases sayfasından indirilecektir.
 
 *Güncellemeler ve sürüm notları için `CHANGELOG.md` dosyasını inceleyebilirsiniz.*
 

@@ -11,11 +11,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - macOS GitHub Release otomasyonu: `deploy_mac.sh` (zip + `gh release create`).
 
+### Changed
+
+- macOS dağıtımı artık repoda `.app` klasörü değil; GitHub **Releases** üzerinden `JiloPlayer_macOS_*.zip` indirilir.
+
 ## [1.0.0] — 2026-05-30
 
 ### Added
 
-- macOS dağıtım paketi: `releases/v1.0.0/Jilo Player.app` (release build).
+- macOS sürümü: GitHub Releases’ta `JiloPlayer_macOS_v1.0.0.zip` (release build).
 - Aktivasyon Bilgileri ekranı; alt çubuk lisans rozetlerinden açılır (Demo / Promosyon / Pro).
 - Alt çubukta tek lisans rozeti (öncelik: Pro → aktif promosyon → demo); hover ipucu «Aktivasyon Bilgileri».
 - Canlı yayın sessiz donma algısı ve otomatik yeniden bağlanma.
