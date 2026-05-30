@@ -1,0 +1,3 @@
+# GitHub Release sayfasindaki otomatik "Source code (zip/tar.gz)" arsivleri bilerek bos birakilir.
+# macOS uygulamasi yalnizca Releases varligi JiloPlayer_macOS_*.zip uzerinden indirilir.
+* export-ignore

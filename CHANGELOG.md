@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Public repoda GitHub’ın otomatik «Source code (zip/tar.gz)» arşivleri `.gitattributes` ile boş üretilir; yalnızca Releases zip indirilir.
+
 ### Added
 
 - macOS GitHub Release otomasyonu: `deploy_mac.sh` (zip + `gh release create`).
