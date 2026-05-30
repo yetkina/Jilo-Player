@@ -11,7 +11,10 @@
 !CHANGELOG.md
 !screenshots/
 !screenshots/**
+!releases/
+!releases/**
 
 # OS junk inside allowed folders
 screenshots/**/.DS_Store
 screenshots/**/Thumbs.db
+releases/**/.DS_Store

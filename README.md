@@ -1,7 +1,7 @@
 # ⛵ Jilo Player
 
 <div align="center">
-  <img src="screenshots/01-1 JP_Live.png" alt="Jilo Player Showcase" width="800" style="border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
+  <img src="screenshots/01-1 JP_Live.jpg" alt="Jilo Player Showcase" width="800" style="border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);">
   
   <br/>
   <h3>Sınırları aşan medya deneyimi.</h3>
@@ -42,11 +42,11 @@ Biz bir veri şirketi değiliz, yazılım şirketiyiz. İzleme alışkanlıklar�
 ## 📸 Ekran Görüntüleri
 
 <div align="center">
-  <img src="screenshots/02 JP_Movies.png" width="48%" style="border-radius: 8px;">
-  <img src="screenshots/03 JP_Series.png" width="48%" style="border-radius: 8px;">
+  <img src="screenshots/02 JP_Movies.jpg" width="48%" style="border-radius: 8px;">
+  <img src="screenshots/03 JP_Series.jpg" width="48%" style="border-radius: 8px;">
   <br/><br/>
-  <img src="screenshots/05 JP_Set_Securty.png" width="48%" style="border-radius: 8px;">
-  <img src="screenshots/06 JP_Movies_Play.png" width="48%" style="border-radius: 8px;">
+  <img src="screenshots/05 JP_Set_Securty.jpg" width="48%" style="border-radius: 8px;">
+  <img src="screenshots/06 JP_Movies_Play.jpg" width="48%" style="border-radius: 8px;">
 </div>
 
 ---
